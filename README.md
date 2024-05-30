@@ -1,3 +1,3 @@
-# display-buffs-06
-This mod displays the buffs and debuffs levels of a selected demon under their name.
-Download the .dll file here: [https://gamebanana.com/mods/436369](https://gamebanana.com/mods/436369)
+# summonable-dante-raidou
+This mod makes Dante and Raidou obtainable from the Demon Compendium.
+Download the .dll file here: []()
