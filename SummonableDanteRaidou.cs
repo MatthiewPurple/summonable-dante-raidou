@@ -17,7 +17,6 @@ public class SummonableDanteRaidou : MelonMod
     {
         public static void Postfix(ref string __result)
         {
-            dds3GlobalWork.DDS3_GBWK.maka = 999999;
             // Simplify Mido's text when summoning Dante/Raidou
             if (__result.Contains("<SP7><FO1>It will cost <CO4>0 Macca. Are you okay with that?"))
             {
