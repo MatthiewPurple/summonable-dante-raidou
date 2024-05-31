@@ -3,7 +3,7 @@ using HarmonyLib;
 using Il2Cpp;
 using summonable_dante_raidou;
 
-[assembly: MelonInfo(typeof(SummonableDanteRaidou), "Summonable Dante/Raidou", "1.0.0", "Matthiew Purple")]
+[assembly: MelonInfo(typeof(SummonableDanteRaidou), "Summonable Dante/Raidou", "1.0.1", "Matthiew Purple")]
 [assembly: MelonGame("アトラス", "smt3hd")]
 
 namespace summonable_dante_raidou;
